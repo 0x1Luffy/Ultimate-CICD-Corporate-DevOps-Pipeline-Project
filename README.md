@@ -2,10 +2,9 @@
 
 ## Deployment Video
 
-<video width="700" controls>
-  <source src="video/deployment-overview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+You can check the deployment overview video here:  
+[📹 Watch Deployment Video](video/deployment-overview.mp4)
+
 
 ## Description
 
